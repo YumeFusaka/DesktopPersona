@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>C:/Users/j/Pictures/pt/0.png</file>
+        <file>C:/Users/j/Pictures/pt/1.png</file>
+        <file>C:/Users/j/Pictures/pt/2.png</file>
+        <file>C:/Users/j/Pictures/pt/3.png</file>
+        <file>C:/Users/j/Pictures/pt/4.png</file>
+        <file>C:/Users/j/Pictures/pt/a.png</file>
+        <file>C:/Users/j/Pictures/pt/b.png</file>
+        <file>C:/Users/j/Pictures/pt/qidong.png</file>
+        <file>C:/Users/j/Pictures/pt/shengji.png</file>
+        <file>C:/Users/j/Pictures/pt/you.png</file>
+    </qresource>
+</RCC>
